@@ -1,0 +1,12 @@
+h1 {text-align: center;color:red}
+hr {border-top:3px dotted #000;}
+#wat span{text-align: center;display: block}
+h3 {text-transform: uppercase; color:red}
+p {text-indent: 30px}
+p .wr {text-transform: capitalize;font-weight: bold}
+p .wd {display:block;font-weight: bold}
+#wt {font-weight: bold;display: block}
+#eew{columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;}
+.sp {text-indent: 30px}
